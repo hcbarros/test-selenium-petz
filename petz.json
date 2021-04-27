@@ -1,0 +1,74 @@
+
+[
+    {
+        "item": 4,
+        "productName": "Ração Golden Power Training para Cães Adultos Sabor Frango e Arroz - 15kg",
+        "providerName": "Premier Pet",
+        "priceCurrent": "R$ 139,90",
+        "priceSubscriber": "R$ 125,91"
+    },
+    {
+        "item": 5,
+        "productName": "Ração Golden Duo para Cães Adultos Sabor Salmão com Ervas e Cordeiro com Arroz - 15kg",
+        "providerName": "Premier Pet",
+        "priceCurrent": "R$ 149,90",
+        "priceSubscriber": "R$ 134,91"
+    },
+    {
+        "item": 6,
+        "productName": "Ração Golden Fórmula Light para Cães Adultos - 15kg",
+        "providerName": "Premier Pet",
+        "priceCurrent": "R$ 144,90",
+        "priceSubscriber": "R$ 130,41"
+    },
+    {
+        "item": 7,
+        "productName": "Ração Golden Mega para Cães Adultos de Raças Grandes Sabor Frango e Arroz - 15kg",
+        "providerName": "Premier Pet",
+        "priceCurrent": "R$ 139,90",
+        "priceSubscriber": "R$ 125,91"
+    },
+    {
+        "item": 8,
+        "productName": "Ração Golden Cães Filhotes Raças Grandes Sabor Frango e Arroz - 15kg",
+        "providerName": "Premier Pet",
+        "priceCurrent": "R$ 144,90",
+        "priceSubscriber": "R$ 130,41"
+    },
+    {
+        "item": 9,
+        "productName": "Ração Golden Duo para Cães Adultos Sabor Frango e Carne - 15kg",
+        "providerName": "Premier Pet",
+        "priceCurrent": "R$ 149,90",
+        "priceSubscriber": "R$ 134,91"
+    },
+    {
+        "item": 10,
+        "productName": "Ração Premier Raças Específicas Golden Retriever para Cães Adultos - 12kg",
+        "providerName": "Premier Pet",
+        "priceCurrent": "R$ 189,90",
+        "priceSubscriber": "R$ 170,91"
+    },
+    {
+        "item": 11,
+        "productName": "Ração Fórmula Golden para Cães Adultos sabor Peru e Arroz 15kg",
+        "providerName": "Premier Pet",
+        "priceCurrent": "R$ 138,90",
+        "priceSubscriber": "R$ 125,01"
+    },
+    {
+        "item": 12,
+        "productName": "Ração Golden Fórmula Mini Bits Senior para Cães Adultos de Pequeno Porte Sabor Frango e Arroz",
+        "providerName": "Premier Pet",
+        "priceCurrent": "R$ 49,90",
+        "priceSubscriber": "R$ 44,91"
+    },
+    {
+        "item": 13,
+        "productName": "Ração Golden Premier Filhote para Cães Sabor Carne e Arroz",
+        "providerName": "Premier Pet",
+        "priceCurrent": "R$ 49,90",
+        "priceSubscriber": "R$ 44,91"
+    }
+
+]
