@@ -2,73 +2,93 @@
 [
     {
         "item": 4,
-        "productName": "Ração Golden Power Training para Cães Adultos Sabor Frango e Arroz - 15kg",
-        "providerName": "Premier Pet",
-        "priceCurrent": "R$ 139,90",
-        "priceSubscriber": "R$ 125,91"
+        "productName": "Ração Biofresh para Cães Adultos de Raças Médias",
+        "carName": "Ração Biofresh para Cães Adultos de Raças Médias - 3kg",
+        "providerName": "Biofresh",
+        "priceCurrent": "R$ 171,99",
+        "priceSubscriber": "R$ 154,79",
+        "quantity": 2
     },
     {
         "item": 5,
-        "productName": "Ração Golden Duo para Cães Adultos Sabor Salmão com Ervas e Cordeiro com Arroz - 15kg",
-        "providerName": "Premier Pet",
-        "priceCurrent": "R$ 149,90",
-        "priceSubscriber": "R$ 134,91"
+        "productName": "Ração Biofresh para Cães Filhotes de Raças Médias",
+        "carName": "Ração Biofresh para Cães Filhotes de Raças Médias - 3 Kg",
+        "providerName": "Biofresh",
+        "priceCurrent": "R$ 171,99",
+        "priceSubscriber": "R$ 154,79",
+        "quantity": 3
     },
     {
         "item": 6,
-        "productName": "Ração Golden Fórmula Light para Cães Adultos - 15kg",
-        "providerName": "Premier Pet",
-        "priceCurrent": "R$ 144,90",
-        "priceSubscriber": "R$ 130,41"
+        "productName": "Ração Biofresh para Cães Sênior de Raças Pequenas e Mini",
+        "carName": "Ração Biofresh para Cães Sênior de Raças Pequenas e Mini - 1 Kg",
+        "providerName": "Biofresh",
+        "priceCurrent": "R$ 79,99",
+        "priceSubscriber": "R$ 71,99",
+        "quantity": 4
     },
     {
         "item": 7,
-        "productName": "Ração Golden Mega para Cães Adultos de Raças Grandes Sabor Frango e Arroz - 15kg",
-        "providerName": "Premier Pet",
-        "priceCurrent": "R$ 139,90",
-        "priceSubscriber": "R$ 125,91"
+        "productName": "Ração Biofresh para Cães Adultos Castrados de Raças Pequenas e Mini",
+        "carName": "Ração Biofresh para Cães Adultos Castrados de Raças Pequenas e Mini - 1 Kg",
+        "providerName": "Biofresh",
+        "priceCurrent": "R$ 73,99",
+        "priceSubscriber": "R$ 66,59",
+        "quantity": 5
     },
     {
         "item": 8,
-        "productName": "Ração Golden Cães Filhotes Raças Grandes Sabor Frango e Arroz - 15kg",
-        "providerName": "Premier Pet",
-        "priceCurrent": "R$ 144,90",
-        "priceSubscriber": "R$ 130,41"
+        "productName": "Ração Biofresh para Cães Sênior de Raças Médias",
+        "carName": "Ração Biofresh para Cães Sênior de Raças Médias - 3kg",
+        "providerName": "Biofresh",
+        "priceCurrent": "R$ 166,99",
+        "priceSubscriber": "R$ 150,29",
+        "quantity": 6
     },
     {
         "item": 9,
-        "productName": "Ração Golden Duo para Cães Adultos Sabor Frango e Carne - 15kg",
-        "providerName": "Premier Pet",
-        "priceCurrent": "R$ 149,90",
-        "priceSubscriber": "R$ 134,91"
+        "productName": "Ração Biofresh para Cães Adultos de Pequeno e Mini Porte Sabor Frango",
+        "carName": "Ração Biofresh para Cães Adultos de Pequeno e Mini Porte Sabor Frango - 1kg",
+        "providerName": "Biofresh",
+        "priceCurrent": "R$ 73,90",
+        "priceSubscriber": "R$ 66,51",
+        "quantity": 7
     },
     {
         "item": 10,
-        "productName": "Ração Premier Raças Específicas Golden Retriever para Cães Adultos - 12kg",
-        "providerName": "Premier Pet",
-        "priceCurrent": "R$ 189,90",
-        "priceSubscriber": "R$ 170,91"
+        "productName": "Ração Biofresh para Cães Castrados de Raças Médias",
+        "carName": "Ração Biofresh para Cães Castrados de Raças Médias - 3kg",
+        "providerName": "Biofresh",
+        "priceCurrent": "R$ 160,99",
+        "priceSubscriber": "R$ 144,89",
+        "quantity": 8
     },
     {
         "item": 11,
-        "productName": "Ração Fórmula Golden para Cães Adultos sabor Peru e Arroz 15kg",
-        "providerName": "Premier Pet",
-        "priceCurrent": "R$ 138,90",
-        "priceSubscriber": "R$ 125,01"
+        "productName": "Ração Biofresh para Cães Filhotes de Raças Grandes",
+        "carName": "Ração Biofresh para Cães Filhotes de Raças Grandes - 3kg",
+        "providerName": "Biofresh",
+        "priceCurrent": "R$ 160,99",
+        "priceSubscriber": "R$ 144,89",
+        "quantity": 9
     },
     {
         "item": 12,
-        "productName": "Ração Golden Fórmula Mini Bits Senior para Cães Adultos de Pequeno Porte Sabor Frango e Arroz",
-        "providerName": "Premier Pet",
-        "priceCurrent": "R$ 49,90",
-        "priceSubscriber": "R$ 44,91"
+        "productName": "Ração Biofresh Light para Cães Adultos de Raças Pequenas e Mini",
+        "carName": "Ração Biofresh Light para Cães Adultos de Raças Pequenas e Mini - 1 Kg",
+        "providerName": "Biofresh",
+        "priceCurrent": "R$ 73,99",
+        "priceSubscriber": "R$ 66,59",
+        "quantity": 10
     },
     {
         "item": 13,
-        "productName": "Ração Golden Premier Filhote para Cães Sabor Carne e Arroz",
-        "providerName": "Premier Pet",
-        "priceCurrent": "R$ 49,90",
-        "priceSubscriber": "R$ 44,91"
+        "productName": "Ração Biofresh Light para Cães de Raças Médias",
+        "carName": "Ração Biofresh Light para Cães de Raças Médias - 3kg",
+        "providerName": "Biofresh",
+        "priceCurrent": "R$ 160,99",
+        "priceSubscriber": "R$ 144,89",
+        "quantity": 11
     }
 
 ]
