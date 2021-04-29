@@ -50,8 +50,8 @@
         "productName": "Ração Biofresh para Cães Adultos de Pequeno e Mini Porte Sabor Frango",
         "carName": "Ração Biofresh para Cães Adultos de Pequeno e Mini Porte Sabor Frango - 1kg",
         "providerName": "Biofresh",
-        "priceCurrent": "R$ 73,90",
-        "priceSubscriber": "R$ 66,51",
+        "priceCurrent": "R$ 73,99",
+        "priceSubscriber": "R$ 66,59",
         "quantity": 7
     },
     {
@@ -65,20 +65,20 @@
     },
     {
         "item": 11,
-        "productName": "Ração Biofresh para Cães Filhotes de Raças Grandes",
-        "carName": "Ração Biofresh para Cães Filhotes de Raças Grandes - 3kg",
-        "providerName": "Biofresh",
-        "priceCurrent": "R$ 160,99",
-        "priceSubscriber": "R$ 144,89",
-        "quantity": 9
-    },
-    {
-        "item": 12,
         "productName": "Ração Biofresh Light para Cães Adultos de Raças Pequenas e Mini",
         "carName": "Ração Biofresh Light para Cães Adultos de Raças Pequenas e Mini - 1 Kg",
         "providerName": "Biofresh",
         "priceCurrent": "R$ 73,99",
         "priceSubscriber": "R$ 66,59",
+        "quantity": 9
+    },
+    {
+        "item": 12,
+        "productName": "Ração Biofresh para Cães Filhotes de Raças Grandes",
+        "carName": "Ração Biofresh para Cães Filhotes de Raças Grandes - 3kg",
+        "providerName": "Biofresh",
+        "priceCurrent": "R$ 160,99",
+        "priceSubscriber": "R$ 144,89",
         "quantity": 10
     },
     {
